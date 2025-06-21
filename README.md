@@ -23,4 +23,4 @@ A lightweight browser extension that scans URLs in real-time and alerts users ab
 - HTML
 
 ## 💡 Author
-Your Name – [Ram](https://github.com/ramchorapalli)
+Ram Chorapalli– [Ram](https://github.com/ramchorapalli)
