@@ -1,6 +1,6 @@
 # CtPhisher
 A Chrome Extension to detect and warn users about phishing links.
-# CtPhisher 🛡️ – Chrome Phishing Link Detector
+# CtPhisher 🛡️ – Catch the Phisher (Chrome Extension for Phishing Link Detection)
 
 A lightweight browser extension that scans URLs in real-time and alerts users about suspicious or phishing links using pattern detection, brand typos, and unsafe TLDs.
 
